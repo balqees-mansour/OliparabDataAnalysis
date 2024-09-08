@@ -9,12 +9,14 @@ Two prostate cancer cell lines, 22Rv1 and DU145, were tested. Each cell line was
 
 ## Sample Details:
 The study includes a total of 12 samples, categorized by treatment type and duration:
+
 22Rv1 Cell Line:
-No Treatment: 3 samples (6h, 12h, 18h)
-Olaparib Treatment: 3 samples (6h, 12h, 18h)
+No Treatment: 3 samples (6h, 12h, 18h).
+Olaparib Treatment: 3 samples (6h, 12h, 18h).
+
 DU145 Cell Line:
-No Treatment: 3 samples (6h, 12h, 18h)
-Olaparib Treatment: 3 samples (6h, 12h, 18h)
+No Treatment: 3 samples (6h, 12h, 18h).
+Olaparib Treatment: 3 samples (6h, 12h, 18h).
 
 ## Data Processing
 Normalization and Transformation:
